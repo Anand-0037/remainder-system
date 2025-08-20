@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 .personal.md
+.personal.md/
+.env
 
 # C extensions
 *.so

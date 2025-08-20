@@ -1,7 +1,7 @@
 [project]
 name = "remainder-system"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python service to schedule and send SMS reminders via Twilio, with user time zone and opt-out support."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
